@@ -1,0 +1,1 @@
+return require("./lib/init.js")(true, true);

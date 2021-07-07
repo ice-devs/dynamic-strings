@@ -1,0 +1,32 @@
+{
+  "name": "dynamic-strings",
+  "version": "1.0.0",
+  "description": "A lightweight package for making static data structures dynamic.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ice-devs/dynamic-strings.git"
+  },
+  "keywords": [
+    "json-vars",
+    "json",
+    "vars",
+    "dynamic",
+    "dynamify",
+    "dfy",
+    "dynamic-strings",
+    "strings"
+  ],
+  "author": "Ice Dev a.k.a. voyant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ice-devs/dynamic-strings/issues"
+  },
+  "homepage": "https://github.com/ice-devs/dynamic-strings#readme"
+}
